@@ -71,7 +71,7 @@ header .imagerandom{
 }
 .section2 p{
     font-size: 18px;
-    height:200px;
+    height:300px;
     width:180px;
     text-align: center;
     
@@ -96,12 +96,13 @@ header .imagerandom{
     height:400px;
     font-size: 18px;
     text-wrap: wrap;
-    width:900px;
+    width:700px;
     padding: 100px;
     text-align: center;
     font-style: italic;
     margin-left: 180px;
     margin-top: 100px;
+    
 }
 .author{ 
     text-align: right;
