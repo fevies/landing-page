@@ -134,6 +134,7 @@ body{
     height: 100%;
     /* overflow: hidden; */
     overflow-x: hidden;
+    background-image: url('https://pixabay.com/static/frontend/3c346409d336d5f09a7f.svg');
 }
 .rectangle button{
     width: 70px;
